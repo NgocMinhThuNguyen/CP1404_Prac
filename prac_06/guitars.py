@@ -3,6 +3,7 @@ from operator import attrgetter
 
 
 def main():
+    """Guitars program"""
     guitars = []
 
     print("My guitars!")
